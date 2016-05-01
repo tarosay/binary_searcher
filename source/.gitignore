@@ -1,0 +1,10 @@
+# /
+/.git
+
+Debug/
+Release/
+obj/
+bin/
+*.sln
+*.suo
+*.sdf
